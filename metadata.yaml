@@ -1,0 +1,35 @@
+_repo: The-Drummer-s-Coat_19801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fortescue, J. W. (John William), Sir
+    alias: Fortescue, John William, Sir
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '8884'
+    url: http://www.gutenberg.org/2009/agents/8884
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Fortescue
+description: ''
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mentally ill children -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Widows -- Juvenile fiction'
+- !lcsh 'Devotion -- Juvenile fiction'
+- !lcsh 'Recluses -- Juvenile fiction'
+title: The Drummer's Coat
+url: http://www.gutenberg.org/ebooks/19801
